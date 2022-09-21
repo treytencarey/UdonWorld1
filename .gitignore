@@ -1,0 +1,11 @@
+*.meta
+
+Assets/SerializedUdonPrograms/
+Assets/Udon/
+Assets/VRChat Examples/
+Assets/VRCSDK/
+Library/
+Logs/
+Packages/
+ProjectSettings/
+Temp/
